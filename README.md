@@ -42,7 +42,7 @@ class AkashPathak:
 
 ## 🚀 Portfolio Projects
 
-> **2 of 5 projects live · 3 in progress**
+> **3 of 5 projects live · 2 in progress**
 
 <table>
 <tr>
@@ -88,18 +88,20 @@ ML pipeline on **50,000 transactions** with extreme class imbalance (0.174% frau
 <td width="50%">
 
 ### 🛒 Project 03 — Customer & Sales Analytics
-![Status](https://img.shields.io/badge/Status-🔨%20Building-ffd166?style=flat-square)
+![Status](https://img.shields.io/badge/Status-✅%20COMPLETE-00c9a7?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-Cohort-7c6dfa?style=flat-square)
-![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=flat-square)
+![KMeans](https://img.shields.io/badge/KMeans-RFM-00c9a7?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-Live-black?style=flat-square)
 
-Customer LTV, cohort retention, sales funnel, and regional performance breakdown across 50K+ customer records.
+End-to-end pipeline on **50,000 customers & 200,000 orders (₹69.7Cr revenue)** — RFM segmentation, cohort retention, LTV modeling, churn prediction & live Flask dashboard.
 
-**Planned Results:**
-- 📦 50K+ customers segmented by LTV & churn probability
-- 📉 3-month rolling cohort retention table
-- 💰 22% revenue uplift strategy from At Risk segment
+**Key Results:**
+- 👥 KMeans RFM segmentation → Champion · Loyal · At Risk · Dormant
+- 🔄 12-cohort × 6-month retention heatmap — Month 3 critical drop-off identified
+- 💰 LTV analysis by segment, city, channel & age group
+- 🗄️ Cohort retention, LTV+churn, funnel — 3 production SQL queries
 
-[![Coming Soon](https://img.shields.io/badge/Coming%20Soon-555?style=for-the-badge)](#)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/akash-pathak-scientist/customer-sales-analytics)
 
 </td>
 <td width="50%">
