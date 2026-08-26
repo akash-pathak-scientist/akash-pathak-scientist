@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-pathak-scientist)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akash-pathak-scientist)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.pathak@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-7C6DFA?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-7C6DFA?style=for-the-badge&logo=vercel&logoColor=white)](https://akash-pathak-scientist.github.io)
 
 </div>
 
