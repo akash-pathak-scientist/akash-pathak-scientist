@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-pathak-scientist)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-pathak-data-scientist)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akash-pathak-scientist)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-7C6DFA?style=for-the-badge&logo=vercel&logoColor=white)](https://akash-pathak-scientist.github.io)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.pathak@email.com)
@@ -243,7 +243,7 @@ On-chain analytics across **6 blockchains · 500K transactions · $2.33B volume*
 
 ### 💬 Open to Data Analyst roles · Collaborations · Freelance Projects
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-pathak-scientist)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-pathak-data-scientist)
 [![Portfolio](https://img.shields.io/badge/View%20Full%20Portfolio-7C6DFA?style=for-the-badge&logo=vercel&logoColor=white)](https://akash-pathak-scientist.github.io)
 
 <br/>
