@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akash%20Pathak&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20SQL%20%E2%80%A2%20Python%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Machine%20Learning&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akash%20Pathak&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%C2%B7%20Machine%20Learning&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C6DFA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Turning+raw+data+into+business+decisions+📊;SQL+%7C+Python+%7C+Power+BI+%7C+Machine+Learning+🤖;FinTech+%7C+BFSI+%7C+Product+Analytics+💳)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C6DFA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Turning+raw+data+into+business+decisions+%F0%9F%93%8A;SQL+%7C+Python+%7C+Power+BI+%7C+Machine+Learning+%F0%9F%A4%96;FinTech+%7C+BFSI+%7C+Fraud+%7C+Blockchain+Analytics+%F0%9F%92%B3)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,8 +14,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-pathak-scientist)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akash-pathak-scientist)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.pathak@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-7C6DFA?style=for-the-badge&logo=vercel&logoColor=white)](https://akash-pathak-scientist.github.io)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.pathak@email.com)
 
 </div>
 
@@ -29,9 +29,9 @@
 class AkashPathak:
     role       = "Data Analyst"
     location   = "India 🇮🇳"
-    focus      = ["FinTech Analytics", "Fraud Detection", "Business Intelligence"]
-    stack      = ["SQL", "Python", "Power BI", "Scikit-learn", "Excel", "Tableau"]
-    currently  = "Building 5 end-to-end analytics projects — FinTech · Fraud · Sales · MIS · Crypto"
+    focus      = ["FinTech Analytics", "Fraud Detection", "Business Intelligence", "Blockchain"]
+    stack      = ["SQL", "Python", "Power BI", "Scikit-learn", "Excel", "Tableau", "Flask"]
+    currently  = "5 end-to-end analytics projects — ALL COMPLETE ✅"
     goal       = "Data Analyst role @ high-impact BFSI / Product company"
     superpower = "I frame the business problem BEFORE touching the data 🎯"
 ```
@@ -42,7 +42,7 @@ class AkashPathak:
 
 ## 🚀 Portfolio Projects
 
-> **🎉 ALL 5 PROJECTS COMPLETE!**
+> **🎉 ALL 5 PROJECTS COMPLETE & LIVE ON GITHUB**
 
 <table>
 <tr>
@@ -53,16 +53,17 @@ class AkashPathak:
 ![SQL](https://img.shields.io/badge/SQL-Advanced-7c6dfa?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-EDA-7c6dfa?style=flat-square)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-12%20APIs-black?style=flat-square)
 
-End-to-end pipeline on **15,000 transactions** — KPIs, fraud signals, RFM segmentation, MoM trends and a live Flask dashboard.
+End-to-end pipeline on **15,000 transactions** — KPIs, fraud signals, RFM segmentation, MoM trends, and a live Flask dashboard with 12 REST API endpoints.
 
 **Key Results:**
 - 🔴 Identified **₹1.45Cr at-risk** volume via 3 fraud signals
-- 👥 **RFM segmented** 2,982 users → Champion/Loyal/At Risk/Dormant
-- 📈 Built **30+ SQL queries** with Window Functions & CTEs
-- 📊 **9-panel dark dashboard** served via Flask + REST API
+- 👥 **RFM segmented** 2,982 users → Champion · Loyal · At Risk · Dormant
+- 📈 **30+ SQL queries** — Window Functions, CTEs, Cohort Retention
+- 📊 **9-panel dark dashboard** + 12 REST endpoints · all 200 OK
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/akash-pathak-scientist/fintech-transaction-analytics)
+[![View Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/akash-pathak-scientist/fintech-transaction-analytics)
 
 </td>
 <td width="50%">
@@ -71,16 +72,17 @@ End-to-end pipeline on **15,000 transactions** — KPIs, fraud signals, RFM segm
 ![Status](https://img.shields.io/badge/Status-✅%20COMPLETE-00c9a7?style=flat-square)
 ![ML](https://img.shields.io/badge/ML-4%20Models-ff6b6b?style=flat-square)
 ![AUC](https://img.shields.io/badge/AUC--ROC-98.14%25-ff6b6b?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-10%20APIs-black?style=flat-square)
 
-ML pipeline on **50,000 transactions** with extreme class imbalance (0.174% fraud). 4 models trained and benchmarked.
+ML pipeline on **50,000 transactions** — extreme class imbalance (0.174% fraud). 4 models trained, benchmarked, and served via live animated dashboard.
 
 **Key Results:**
 - 🤖 **Random Forest → 98.14% AUC-ROC** (best model)
-- ⚖️ Handled extreme imbalance with `class_weight="balanced"`
+- ⚖️ Handled imbalance via `class_weight="balanced"`
 - 🔍 Feature engineering: `log(Amount)`, `Amt_Z`, `Hour`
 - 🚨 3 rule-based SQL fraud detection queries in production
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/akash-pathak-scientist/credit-card-fraud-detection)
+[![View Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/akash-pathak-scientist/credit-card-fraud-detection)
 
 </td>
 </tr>
@@ -89,38 +91,38 @@ ML pipeline on **50,000 transactions** with extreme class imbalance (0.174% frau
 
 ### 🛒 Project 03 — Customer & Sales Analytics
 ![Status](https://img.shields.io/badge/Status-✅%20COMPLETE-00c9a7?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-Cohort-7c6dfa?style=flat-square)
 ![KMeans](https://img.shields.io/badge/KMeans-RFM-00c9a7?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-Live-black?style=flat-square)
+![Cohort](https://img.shields.io/badge/Cohort-12%20months-7c6dfa?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-12%20APIs-black?style=flat-square)
 
-End-to-end pipeline on **50,000 customers & 200,000 orders (₹69.7Cr revenue)** — RFM segmentation, cohort retention, LTV modeling, churn prediction & live Flask dashboard.
+Full customer analytics on **50K customers · 200K orders · ₹69.7Cr revenue** — RFM segmentation, cohort retention, LTV modeling, and churn prediction.
 
 **Key Results:**
-- 👥 KMeans RFM segmentation → Champion · Loyal · At Risk · Dormant
-- 🔄 12-cohort × 6-month retention heatmap — Month 3 critical drop-off identified
+- 👥 KMeans RFM → Champion · Loyal · At Risk · Dormant
+- 🔄 12-cohort × 6-month retention heatmap built
 - 💰 LTV analysis by segment, city, channel & age group
-- 🗄️ Cohort retention, LTV+churn, funnel — 3 production SQL queries
+- 📊 10 dark-theme charts · 12 API endpoints · all 200 OK
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/akash-pathak-scientist/customer-sales-analytics)
+[![View Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/akash-pathak-scientist/customer-sales-analytics)
 
 </td>
 <td width="50%">
 
 ### 📊 Project 04 — Finance / MIS Dashboard
 ![Status](https://img.shields.io/badge/Status-✅%20COMPLETE-00c9a7?style=flat-square)
-![PnL](https://img.shields.io/badge/P%26L-Analysis-ffd166?style=flat-square)
+![PnL](https://img.shields.io/badge/P%26L-Waterfall-ffd166?style=flat-square)
 ![EBITDA](https://img.shields.io/badge/EBITDA-Bridge-ffd166?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-Live-black?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-8%20APIs-black?style=flat-square)
 
-CFO-level MIS dashboard across **24 months · 8 departments** — P&L waterfall, EBITDA bridge, budget variance RAG, cash flow analysis.
+CFO-level MIS across **24 months · 8 departments** — P&L waterfall, EBITDA bridge, budget variance RAG status, cash flow & YoY comparison.
 
 **Key Results:**
-- 💰 FY2024 Revenue ₹13.07Cr | YoY +16.9% growth
-- ⚡ EBITDA ₹1.71Cr (13.1% margin) | PAT ₹1.03Cr
-- 🎯 Budget vs Actual for 8 depts — RAG status automation
+- 💰 FY2024 Revenue **₹13.07Cr** | YoY **+16.9%** growth
+- ⚡ EBITDA **₹1.71Cr** (13.1% margin) | PAT ₹1.03Cr
+- 🎯 Budget vs Actual — RAG (Red/Amber/Green) for 8 depts
 - 🏛️ P&L waterfall + EBITDA bridge + 12 financial charts
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/akash-pathak-scientist/finance-mis-dashboard)
+[![View Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/akash-pathak-scientist/finance-mis-dashboard)
 
 </td>
 </tr>
@@ -129,19 +131,19 @@ CFO-level MIS dashboard across **24 months · 8 departments** — P&L waterfall,
 
 ### ₿ Project 05 — Crypto & Payment Analytics
 ![Status](https://img.shields.io/badge/Status-✅%20COMPLETE-00c9a7?style=flat-square)
-![Blockchain](https://img.shields.io/badge/Blockchain-6%20Chains-7c6dfa?style=flat-square)
-![Whale](https://img.shields.io/badge/Whale%20Detection-1500%20txns-ff6b6b?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-Live-black?style=flat-square)
+![Chains](https://img.shields.io/badge/Chains-6%20Blockchains-a855f7?style=flat-square)
+![Volume](https://img.shields.io/badge/Volume-%242.33B-7c6dfa?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-10%20APIs-black?style=flat-square)
 
-On-chain analytics across **6 blockchains · 500K transactions · $2.33B volume** — OHLCV price action, whale/bot detection, DeFi TVL, cross-chain correlation.
+On-chain analytics across **6 blockchains · 500K transactions · $2.33B volume** — OHLCV price action, whale detection, wallet segmentation, DeFi TVL & cross-chain correlation.
 
 **Key Results:**
-- ₿ 6-chain OHLCV + BTC candlestick chart (365 days)
-- 🐋 1,500 whale wallets detected — control majority of volume
-- 🔗 Cross-chain correlation matrix: ETH–BNB highest (R=0.89)
-- 🏦 DeFi TVL tracked across 8 protocols ($25B+ ecosystem)
+- ₿ 6-chain OHLCV price simulation + BTC candlestick chart (365 days)
+- 🐋 **1,500 whale txns** detected — disproportionate volume control identified
+- 🔗 Cross-chain Pearson correlation matrix across all 6 networks
+- 🏦 **8 DeFi protocols** tracked — $25B+ TVL ecosystem analysis
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/akash-pathak-scientist/crypto-payment-analytics)
+[![View Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/akash-pathak-scientist/crypto-payment-analytics)
 
 </td>
 </tr>
@@ -171,11 +173,11 @@ On-chain analytics across **6 blockchains · 500K transactions · $2.33B volume*
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### Tools
+### Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -239,9 +241,10 @@ On-chain analytics across **6 blockchains · 500K transactions · $2.33B volume*
 
 <div align="center">
 
-### 💬 Open to Data Analyst roles · Collaborations · Freelance projects
+### 💬 Open to Data Analyst roles · Collaborations · Freelance Projects
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-pathak-scientist)
+[![Portfolio](https://img.shields.io/badge/View%20Full%20Portfolio-7C6DFA?style=for-the-badge&logo=vercel&logoColor=white)](https://akash-pathak-scientist.github.io)
 
 <br/>
 
