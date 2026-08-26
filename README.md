@@ -42,7 +42,7 @@ class AkashPathak:
 
 ## 🚀 Portfolio Projects
 
-> **3 of 5 projects live · 2 in progress**
+> **4 of 5 projects live · 1 in progress**
 
 <table>
 <tr>
@@ -107,18 +107,20 @@ End-to-end pipeline on **50,000 customers & 200,000 orders (₹69.7Cr revenue)**
 <td width="50%">
 
 ### 📊 Project 04 — Finance / MIS Dashboard
-![Status](https://img.shields.io/badge/Status-⏳%20Planned-888aaa?style=flat-square)
-![Excel](https://img.shields.io/badge/Excel-Advanced-1D6F42?style=flat-square)
-![DAX](https://img.shields.io/badge/Power%20BI-DAX-yellow?style=flat-square)
+![Status](https://img.shields.io/badge/Status-✅%20COMPLETE-00c9a7?style=flat-square)
+![PnL](https://img.shields.io/badge/P%26L-Analysis-ffd166?style=flat-square)
+![EBITDA](https://img.shields.io/badge/EBITDA-Bridge-ffd166?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-Live-black?style=flat-square)
 
-CFO-level financial reporting dashboard — P&L, budget variance, EBITDA tracking, dept-level drill-down.
+CFO-level MIS dashboard across **24 months · 8 departments** — P&L waterfall, EBITDA bridge, budget variance RAG, cash flow analysis.
 
-**Planned Results:**
-- ⚡ Automated 40 hrs/month of manual MIS work
-- 📐 YTD · MTD · QoQ DAX measures for 8 cost centers
-- 🎯 Budget vs Actual variance alerts
+**Key Results:**
+- 💰 FY2024 Revenue ₹13.07Cr | YoY +16.9% growth
+- ⚡ EBITDA ₹1.71Cr (13.1% margin) | PAT ₹1.03Cr
+- 🎯 Budget vs Actual for 8 depts — RAG status automation
+- 🏛️ P&L waterfall + EBITDA bridge + 12 financial charts
 
-[![Coming Soon](https://img.shields.io/badge/Coming%20Soon-555?style=for-the-badge)](#)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/akash-pathak-scientist/finance-mis-dashboard)
 
 </td>
 </tr>
