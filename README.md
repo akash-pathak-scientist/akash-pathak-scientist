@@ -42,7 +42,7 @@ class AkashPathak:
 
 ## 🚀 Portfolio Projects
 
-> **4 of 5 projects live · 1 in progress**
+> **🎉 ALL 5 PROJECTS COMPLETE!**
 
 <table>
 <tr>
@@ -128,13 +128,20 @@ CFO-level MIS dashboard across **24 months · 8 departments** — P&L waterfall,
 <td colspan="2" align="center">
 
 ### ₿ Project 05 — Crypto & Payment Analytics
-![Status](https://img.shields.io/badge/Status-⏳%20Planned-888aaa?style=flat-square)
-![Python](https://img.shields.io/badge/Python-APIs-7c6dfa?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-On--Chain-ff9f43?style=flat-square)
+![Status](https://img.shields.io/badge/Status-✅%20COMPLETE-00c9a7?style=flat-square)
+![Blockchain](https://img.shields.io/badge/Blockchain-6%20Chains-7c6dfa?style=flat-square)
+![Whale](https://img.shields.io/badge/Whale%20Detection-1500%20txns-ff6b6b?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-Live-black?style=flat-square)
 
-On-chain transaction analytics across 6 blockchain networks — wallet clustering, whale detection, cross-chain volume correlation.
+On-chain analytics across **6 blockchains · 500K transactions · $2.33B volume** — OHLCV price action, whale/bot detection, DeFi TVL, cross-chain correlation.
 
-[![Coming Soon](https://img.shields.io/badge/Coming%20Soon-555?style=for-the-badge)](#)
+**Key Results:**
+- ₿ 6-chain OHLCV + BTC candlestick chart (365 days)
+- 🐋 1,500 whale wallets detected — control majority of volume
+- 🔗 Cross-chain correlation matrix: ETH–BNB highest (R=0.89)
+- 🏦 DeFi TVL tracked across 8 protocols ($25B+ ecosystem)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/akash-pathak-scientist/crypto-payment-analytics)
 
 </td>
 </tr>
