@@ -31,7 +31,7 @@ class AkashPathak:
     location   = "India 🇮🇳"
     focus      = ["FinTech Analytics", "Fraud Detection", "Business Intelligence", "Blockchain"]
     stack      = ["SQL", "Python", "Power BI", "Scikit-learn", "Excel", "Tableau", "Flask"]
-    currently  = "5 end-to-end analytics projects — ALL COMPLETE ✅"
+    currently  = "6 end-to-end analytics projects — ALL COMPLETE ✅"
     goal       = "Data Analyst role @ high-impact BFSI / Product company"
     superpower = "I frame the business problem BEFORE touching the data 🎯"
 ```
@@ -42,7 +42,7 @@ class AkashPathak:
 
 ## 🚀 Portfolio Projects
 
-> **🎉 ALL 5 PROJECTS COMPLETE & LIVE ON GITHUB**
+> **🎉 ALL 6 PROJECTS COMPLETE & LIVE ON GITHUB**
 
 <table>
 <tr>
