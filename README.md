@@ -147,6 +147,29 @@ On-chain analytics across **6 blockchains · 500K transactions · $2.33B volume*
 
 </td>
 </tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 🚀 Project 06 — CareerPilot AI
+![Status](https://img.shields.io/badge/Status-✅%20COMPLETE-00c9a7?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Flask-3776AB?style=flat-square)
+![AI](https://img.shields.io/badge/AI-NLP%20%7C%20Matching-6366f1?style=flat-square)
+![SPA](https://img.shields.io/badge/Frontend-SPA-10b981?style=flat-square)
+
+End-to-end AI job-search platform — **NOT just a resume generator**. Resume import → AI analysis (7 scores) → ATS optimization → job matching (1-100) → cover letter generation → application tracking.
+
+**Key Results:**
+- 🔍 AI resume analysis with ATS, Skills, Quantification, Keyword scores + fix recommendations
+- 🎯 Job matching engine 1-100 across LinkedIn · Naukri · Indeed
+- ✍️ Company-specific cover letters from resume only — no fabrication
+- 📋 Full application tracker: Saved → Applied → Interview → Offer → CSV export
+
+[![View Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/akash-pathak-scientist/careerpilot-ai)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-10b981?style=for-the-badge)](https://akash-pathak-scientist.github.io/projects/p06-careerpilot.html)
+
+</td>
+</tr>
 </table>
 
 <br/>
