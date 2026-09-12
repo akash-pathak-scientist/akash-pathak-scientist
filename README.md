@@ -31,7 +31,7 @@ class AkashPathak:
     location   = "India 🇮🇳"
     focus      = ["FinTech Analytics", "Fraud Detection", "Business Intelligence", "Blockchain"]
     stack      = ["SQL", "Python", "Power BI", "Scikit-learn", "Excel", "Tableau", "Flask"]
-    currently  = "6 end-to-end analytics projects — ALL COMPLETE ✅"
+    currently  = "7 end-to-end projects — ALL COMPLETE ✅ (analytics + deep learning)"
     goal       = "Data Analyst role @ high-impact BFSI / Product company"
     superpower = "I frame the business problem BEFORE touching the data 🎯"
 ```
@@ -42,7 +42,7 @@ class AkashPathak:
 
 ## 🚀 Portfolio Projects
 
-> **🎉 ALL 6 PROJECTS COMPLETE & LIVE ON GITHUB**
+> **🎉 ALL 7 PROJECTS COMPLETE & LIVE ON GITHUB**
 
 <table>
 <tr>
@@ -167,6 +167,29 @@ End-to-end AI job-search platform — **NOT just a resume generator**. Resume im
 
 [![View Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/akash-pathak-scientist/careerpilot-ai)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-10b981?style=for-the-badge)](https://akash-pathak-scientist.github.io/projects/p06-careerpilot.html)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🧠 Project 07 — Product-Image Classifier (CNN)
+![Status](https://img.shields.io/badge/Status-✅%20COMPLETE-00c9a7?style=flat-square)
+![Test Acc](https://img.shields.io/badge/Test%20Accuracy-91.71%25-ffd166?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-CNN-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
+![Data](https://img.shields.io/badge/Images-20%2C754%20real-7c6dfa?style=flat-square)
+
+Flipkart-style catalogue auto-categorisation into **Apparel / Electronics / Home** — a small CNN (MobileNetV3-Small, 1.52M params) trained on **20,754 real product images** from the public Amazon Reviews 2023 corpus, with a from-scratch baseline and one-click Colab reproduction.
+
+**Key Results:**
+- 🎯 **91.71% test accuracy** (held-out n=3,114, flip-TTA) — beat the 85% target
+- 🖼️ **20,754 real images**, every one traceable to its public product page (dataset + model on Releases)
+- 🤖 Transfer vs scratch: **92.1% vs 84.1% val** — honest baseline included
+- 🔍 Confusion-matrix + sub-category analysis: names exactly which pairs fumble & why (E-Comm → Home = computer gear; Home → E-Comm = kitchen appliances)
+
+[![View Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/akash-pathak-scientist/product-image-classifier-cnn)
+[![Results](https://img.shields.io/badge/Results%20Page-ffd166?style=for-the-badge)](https://akash-pathak-scientist.github.io/projects/p07-cnn.html)
+[![Open In Colab](https://img.shields.io/badge/Open%20in%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)](https://colab.research.google.com/github/akash-pathak-scientist/product-image-classifier-cnn/blob/main/notebooks/product_image_classifier_colab.ipynb)
 
 </td>
 </tr>
