@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akash%20Pathak&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%C2%B7%20Machine%20Learning&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akash%20Pathak&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%C2%B7%20ML%20%C2%B7%20Deep%20Learning%20%F0%9F%A7%A0&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
@@ -16,7 +16,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akash-pathak-scientist)
 [![Profile Views](https://komarev.com/ghpvc/?username=akash-pathak-scientist&color=7C6DFA&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/akash-pathak-scientist)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-7C6DFA?style=for-the-badge&logo=vercel&logoColor=white)](https://akash-pathak-scientist.github.io)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.pathak@email.com)
+[![Email](https://img.shields.io/badge/Contact-DM%20on%20LinkedIn-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://linkedin.com/in/akash-pathak-data-scientist)
 
 </div>
 
@@ -293,6 +293,7 @@ Flipkart-style catalogue auto-categorisation into **Apparel / Electronics / Home
 | 💬 | **Stakeholder-ready insights** — written for decision-makers, not just data teams |
 | ⚡ | **Real datasets · Real queries · Real decisions** — no toy examples |
 | 🏗️ | **Production-grade code** — Flask APIs, clean SQL, modular Python |
+| 🧠 | **Deep learning, measured** — CNN at **91.71% test accuracy** on 20,754 real images, full error analysis |
 
 </div>
 
