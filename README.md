@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C6DFA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Turning+raw+data+into+business+decisions+%F0%9F%93%8A;SQL+%7C+Python+%7C+Power+BI+%7C+Machine+Learning+%F0%9F%A4%96;FinTech+%7C+BFSI+%7C+Fraud+%7C+Blockchain+Analytics+%F0%9F%92%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C6DFA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Turning+raw+data+into+business+decisions+%F0%9F%93%8A;SQL+%7C+Python+%7C+Power+BI+%7C+Machine+Learning+%F0%9F%A4%96;FinTech+%7C+BFSI+%7C+Fraud+%7C+Blockchain+Analytics+%F0%9F%92%B3;Deep+Learning%3A+PyTorch+%C2%B7+CNNs+%E2%80%94+91.71%25+test+acc+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,6 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-pathak-data-scientist)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akash-pathak-scientist)
+[![Profile Views](https://komarev.com/ghpvc/?username=akash-pathak-scientist&color=7C6DFA&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/akash-pathak-scientist)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-7C6DFA?style=for-the-badge&logo=vercel&logoColor=white)](https://akash-pathak-scientist.github.io)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.pathak@email.com)
 
@@ -29,9 +30,9 @@
 class AkashPathak:
     role       = "Data Analyst"
     location   = "India 🇮🇳"
-    focus      = ["FinTech Analytics", "Fraud Detection", "Business Intelligence", "Blockchain"]
-    stack      = ["SQL", "Python", "Power BI", "Scikit-learn", "Excel", "Tableau", "Flask"]
-    currently  = "7 end-to-end projects — ALL COMPLETE ✅ (analytics + deep learning)"
+    focus      = ["FinTech Analytics", "Fraud Detection", "Business Intelligence", "Blockchain", "Computer Vision"]
+    stack      = ["SQL", "Python", "Power BI", "Scikit-learn", "PyTorch", "Excel", "Tableau", "Flask"]
+    currently  = "7 end-to-end projects — ALL COMPLETE ✅ | CNN: 91.71% test acc on 20,754 real images"
     goal       = "Data Analyst role @ high-impact BFSI / Product company"
     superpower = "I frame the business problem BEFORE touching the data 🎯"
 ```
@@ -185,7 +186,15 @@ Flipkart-style catalogue auto-categorisation into **Apparel / Electronics / Home
 - 🎯 **91.71% test accuracy** (held-out n=3,114, flip-TTA) — beat the 85% target
 - 🖼️ **20,754 real images**, every one traceable to its public product page (dataset + model on Releases)
 - 🤖 Transfer vs scratch: **92.1% vs 84.1% val** — honest baseline included
-- 🔍 Confusion-matrix + sub-category analysis: names exactly which pairs fumble & why (E-Comm → Home = computer gear; Home → E-Comm = kitchen appliances)
+- 🔍 Confusion-matrix + sub-category analysis: names exactly which pairs fumble & why
+
+| Class | Precision | Recall | F1 |
+|---|---|---|---|
+| Apparel | 0.960 | 0.915 | 0.937 |
+| Electronics | 0.905 | 0.920 | 0.913 |
+| Home | 0.890 | 0.917 | 0.903 |
+
+<img src="https://raw.githubusercontent.com/akash-pathak-scientist/product-image-classifier-cnn/main/reports/confusion_matrix.png" width="460" alt="CNN confusion matrix — 91.71% test accuracy"/>
 
 [![View Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/akash-pathak-scientist/product-image-classifier-cnn)
 [![Results](https://img.shields.io/badge/Results%20Page-ffd166?style=for-the-badge)](https://akash-pathak-scientist.github.io/projects/p07-cnn.html)
@@ -242,11 +251,17 @@ Flipkart-style catalogue auto-categorisation into **Apparel / Electronics / Home
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akash-pathak-scientist&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.deno.dev/akash-pathak-scientist&theme=tokyonight&hide_border=true)
 
 </div>
 
 <br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=akash-pathak-scientist&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-pathak-scientist&bg_color=0d1117&color=7C6DFA&line=00c9a7&point=ffd166&area=true&hide_border=true" width="100%"/>
+
+</div>
 
 ---
 
